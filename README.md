@@ -1,1 +1,1 @@
-# Pokedex Criado com - JS, HTML, CSS
+# Pokedex Feito com - JS, HTML, CSS
